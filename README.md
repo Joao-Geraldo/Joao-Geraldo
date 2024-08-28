@@ -1,8 +1,8 @@
-## <Hello, world/> 🌎  Bem-vindo(a) ao perfil
+## <Hello, world/> 🌎  Bem-vindo(a) ao perfil de Joao-Geraldo
 
 <div>
   <a href="https://github.com/Joao-Geraldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Geraldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-geraldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Geraldo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
